@@ -1,0 +1,7 @@
+## Interface: 60000
+## Title: Probably - |cff00FFFFDr. Green Thumb
+## Notes: 
+## Dependencies: Probably
+
+Rotations\Druid\Restoration_Battleground.lua
+Rotations\Druid\Restoration_Arena.lua
