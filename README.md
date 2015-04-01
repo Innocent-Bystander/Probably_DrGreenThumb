@@ -2,15 +2,15 @@
 
 Druid Restoration Arena 2vs2:
 
-- Auto switch to bear form if polymorph incoming (sometimes bugged)
-- Cat Form for Damage
-- Bear Form for Damage
-- Mouseover dotting
-- Auto dispell root on mate
-- anti root shapeshift
+	- Cat Form and Bear Form Support
+	- keep Moonfire and Fearie Swarm up
+	- Wild Charge Support
+	- Auto dispell root on mate
+	- anti root shapeshift
+	- anti polymorph shapeshift
 
-No Shapeshift:
+	No Shapeshift:
 
-- Left Shift activates cat form
-- Right Shift cyclones focus target
-- Left Control breaks any Form
+	- Left Shift activates cat form
+	- Right Shift cyclones focus target
+	- Left Control breaks any Form
