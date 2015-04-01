@@ -3,5 +3,8 @@
 ## Notes: 
 ## Dependencies: Probably
 
-Rotations\Druid\Restoration_Battleground.lua
-Rotations\Druid\Restoration_Arena.lua
+Rotations\Druid\Restoration_Arena_2vs2.lua
+##Rotations\Druid\Restoration_Arena_3vs3.lua
+##Rotations\Druid\Restoration_Arena_5vs5.lua
+Rotations\Druid\Restoration_Battleground_10vs10.lua
+##Rotations\Druid\Restoration_Battleground_15vs15.lua
